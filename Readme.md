@@ -6,7 +6,7 @@
 
      curl http://npmjs.org/install.sh | sh
 
-### Installing say.js
+### Installing node-mailer
 
      npm install mailer
 
